@@ -1,0 +1,8 @@
+{
+  "name": "Boss Ecomm Marketing",
+  "description": "Boss Ecomm Marketing platform dashboard, VIP order grabbing and earning system with complete user and admin interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
